@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8be26be8-5263-4572-8896-a1aa27e0c3b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2UkJxbZ3dppIEn5MoYgQBHVJsTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/M-Tech/WebstormProjects/Tala2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.server.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\M-Tech\WebstormProjects\SE Project\Frontend" />
+      <recent name="C:\Users\M-Tech\WebstormProjects\Tala2\src" />
+      <recent name="C:\Users\M-Tech\WebstormProjects\Tala2\src\component\About" />
+      <recent name="C:\Users\M-Tech\WebstormProjects\Tala2\src\component\Header" />
+      <recent name="C:\Users\M-Tech\WebstormProjects\Tala2\src\component\Footer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.server">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/App.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="TeamContener.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="src/App.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.server" />
+        <item itemvalue="Node.js.TeamContener.js" />
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8be26be8-5263-4572-8896-a1aa27e0c3b1" name="Changes" comment="" />
+      <created>1693477892752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693477892752</updated>
+      <workItem from="1693477893817" duration="327000" />
+      <workItem from="1693677373948" duration="2000" />
+      <workItem from="1693760502022" duration="6293000" />
+      <workItem from="1693917803919" duration="76000" />
+      <workItem from="1694011709831" duration="1541000" />
+      <workItem from="1694080530250" duration="13782000" />
+      <workItem from="1694968510155" duration="1222000" />
+      <workItem from="1695566312207" duration="7000" />
+      <workItem from="1695567283595" duration="3000" />
+      <workItem from="1698933994306" duration="5000" />
+      <workItem from="1699107688820" duration="89000" />
+      <workItem from="1703702261212" duration="83000" />
+      <workItem from="1704370886206" duration="17000" />
+      <workItem from="1705152845602" duration="94000" />
+      <workItem from="1707134772715" duration="24925000" />
+      <workItem from="1707826951861" duration="14924000" />
+      <workItem from="1708091106418" duration="24122000" />
+      <workItem from="1708516315243" duration="1339000" />
+      <workItem from="1715270034712" duration="506000" />
+      <workItem from="1715271004043" duration="9000" />
+      <workItem from="1715271107893" duration="13000" />
+      <workItem from="1715271835202" duration="167000" />
+      <workItem from="1715337423809" duration="2369000" />
+      <workItem from="1715349409407" duration="6641000" />
+      <workItem from="1716321570298" duration="74000" />
+      <workItem from="1716378332288" duration="860000" />
+      <workItem from="1716385597238" duration="449000" />
+      <workItem from="1716389567590" duration="667000" />
+      <workItem from="1716391436850" duration="4000" />
+      <workItem from="1716391469002" duration="1000" />
+      <workItem from="1716391485748" duration="61000" />
+      <workItem from="1716391580128" duration="4000" />
+      <workItem from="1716391630313" duration="21000" />
+      <workItem from="1716391696517" duration="8000" />
+      <workItem from="1716406864428" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
