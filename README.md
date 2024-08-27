@@ -16,7 +16,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js
-- **Database:** SQL
+- **Database:** Mango DB
 
 ## Installation
 
